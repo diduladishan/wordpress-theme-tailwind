@@ -14,7 +14,7 @@
                 <li><a href="#home" class="text-white hover:text-gray-200">Home</a></li>
                 <li><a href="#menu" class="text-white hover:text-gray-200">Menu</a></li>
                 <li><a href="#contact" class="text-white hover:text-gray-200">Contact</a></li>
-                <li><a href="#service" class="text-white hover:text-gray-200">Service</a></li>
+                <li><a href="#service" class="text-white hover:text-gray-200">Services</a></li>
             </ul>
         </div>
     </nav>
